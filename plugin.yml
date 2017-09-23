@@ -1,0 +1,9 @@
+name: TheCube
+version: 3.0
+author: Shakapark
+main: fr.Shakapark.TheCube.TheCube
+commands:
+ pvp:
+  description: activation/desctivation du mode pvp
+  permission: pvp.use
+  usage:
